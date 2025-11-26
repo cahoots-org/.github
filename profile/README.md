@@ -1,7 +1,6 @@
 # Cahoots Organization 🤝
 
 [![Website](https://img.shields.io/badge/Website-cahoots.cc-blue)](https://cahoots.cc)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ## 🎯 Mission
 
